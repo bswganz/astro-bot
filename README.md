@@ -1,7 +1,7 @@
-<h1 align="center">Hi! 👋 I'm AlyaaXzy</h1>
+<h1 align="center">Hi! 👋 I'm bagus ganz</h1>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+AlyaaXzy+?+From+Indonesia.;I'am+Not+Programmer." alt="AlyaaXzy">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+bagus ganz+?+From+Indonesia.;I'am+Not+Programmer." alt="bagus ganz">
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 </p>
 
 
-# AlyaaXzy
-Simple Rpg WhatsApp Bot AlyaaXzy
+# bagus ganz
+Simple Rpg WhatsApp astro bot
 
 <a href="https://github.com/Dawnfrosty/Mike-bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Dawnfrosty/Mike-bot?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Dawnfrosty/Mike-bot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Dawnfrosty/Mike-bot?label=Watchers&color=green&style=flat-square"></a>
@@ -48,8 +48,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/AlyaaXd/rfkbotV2
-cd rfkbotV2
+git clone https://github.com/bagus/astrobot
+cd astrobot
 npm install
 npm update
 ```
@@ -63,8 +63,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/AlyaaXd/rfkbotV2-bot
-cd rfkbotV2
+git clone https://github.com/bagus/astro-bot
+cd astro-bot
 npm install
 npm update
 ```
