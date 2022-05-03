@@ -40,7 +40,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 Tutorial YouTube
 
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](AlyaaXzy ?)
-## FOR TERMUX/UBUNTU/SSH USER AlyaaXzy
+## FOR TERMUX/UBUNTU/SSH USER bagus ganz
 
 ```bash
 apt update && apt upgrade
